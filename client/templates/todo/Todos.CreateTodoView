@@ -1,0 +1,2 @@
+
+{{view Todos.CreateTodoView id="new-todo" placeholder="What needs to be done?"}}
